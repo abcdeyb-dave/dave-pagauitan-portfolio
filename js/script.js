@@ -10,7 +10,7 @@ const projects = [
   { title: 'Other project placeholder', category: 'Other', type: 'other', description: 'A flexible slot for a print, academic, or technical project you want to feature.', technologies: ['Add tools here'], github: '', demo: '' }
 ];
 const portfolioItems = [
-  { title: 'Poster composition', category: 'Posters', description: 'A bold typographic poster composition exploring scale, contrast, and expressive lettering.', tools: ['Adobe Photoshop', 'Adobe Illustrator'], image: 'assets/projects/Design.png' },
+  { title: 'Poster composition', category: 'Posters', description: 'A bold typographic poster composition exploring scale, contrast, and expressive lettering.', tools: ['Adobe Photoshop', 'Adobe Illustrator'], image: 'assets/projects/Design-web.jpg' },
   { title: 'Realocal apparel mockup', category: 'Branding', description: 'An apparel branding mockup for Realocal, combining logo placement with a promotional product presentation.', tools: ['Adobe Photoshop', 'Adobe Illustrator'], image: 'assets/projects/Realocal.jpg' },
   { title: 'Social media work', category: 'Social Media', description: 'Add an image and description for a social media design.', tools: ['Photoshop', 'Illustrator'], image: '' },
   { title: 'Print design work', category: 'Print Design', description: 'Add a production-ready print design from your archive.', tools: ['Photoshop'], image: '' }
