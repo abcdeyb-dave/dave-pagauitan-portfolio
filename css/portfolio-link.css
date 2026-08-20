@@ -1,0 +1,8 @@
+.inline-link {
+  color: var(--accent);
+  border-bottom: 1px solid currentColor;
+}
+
+.inline-link:hover {
+  color: var(--text);
+}
