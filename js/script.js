@@ -12,7 +12,7 @@ const projects = [
 const portfolioItems = [
   { title: 'Poster composition', category: 'Posters', description: 'A bold typographic poster composition exploring scale, contrast, and expressive lettering.', tools: ['Adobe Photoshop', 'Adobe Illustrator'], image: 'assets/projects/Design-web.jpg' },
   { title: 'Realocal apparel mockup', category: 'Branding', description: 'An apparel branding mockup for Realocal, combining logo placement with a promotional product presentation.', tools: ['Adobe Photoshop', 'Adobe Illustrator'], image: 'assets/projects/Realocal.jpg' },
-  { title: 'Social media work', category: 'Social Media', description: 'Add an image and description for a social media design.', tools: ['Photoshop', 'Illustrator'], image: '' },
+  { title: 'Morrow Coffee Co. social design', category: 'Social Media', description: 'A social media design for Morrow Coffee Co., balancing warm coffeehouse character with a clear promotional layout.', tools: ['Photoshop', 'Illustrator'], image: 'assets/images/Morrow Coffee Co-01.jpg' },
   { title: 'Print design work', category: 'Print Design', description: 'Add a production-ready print design from your archive.', tools: ['Photoshop'], image: '' }
 ];
 
